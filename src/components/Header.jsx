@@ -19,7 +19,7 @@ const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="/public/Tanwebicon.svg"
+              src="https://i.ibb.co.com/XZDd83PW/Tan-2.png"
               width={60}
               height={60}
               alt="Henry Clark"
